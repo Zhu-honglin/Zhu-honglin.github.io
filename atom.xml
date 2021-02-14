@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Zhuhonglin</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>朱鸿林</name>
+    <name>Zhuhonglin</name>
     
   </author>
   
@@ -30,6 +30,26 @@
       
     <summary type="html">&lt;h3 id=&quot;Biography&quot;&gt;&lt;a href=&quot;#Biography&quot; class=&quot;headerlink&quot; title=&quot;Biography&quot;&gt;&lt;/a&gt;Biography&lt;/h3&gt;&lt;p&gt;我本科毕业于哈尔滨工程大学自动化专业&lt;/p&gt;
 </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>your title</title>
+    <link href="http://example.com/2021/02/14/your-title/"/>
+    <id>http://example.com/2021/02/14/your-title/</id>
+    <published>2021-02-14T06:46:52.000Z</published>
+    <updated>2021-02-14T07:43:09.097Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Biography"><a href="#Biography" class="headerlink" title="Biography"></a>Biography</h3><p>I graduated from <strong><em>Harbin Engineering University</em></strong>, majoring in Automation. My graduation thesis is <strong><em>Research on visual SLAM Based on deep learning</em></strong>.  I have embedded software development internship experience. At present, I am an <strong><em>Algorithm Engineer</em></strong> in Dongfeng Nissan technology center. I’m interested in <strong><em>machine learning</em></strong> and <strong><em>data analysis</em></strong>.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Biography&quot;&gt;&lt;a href=&quot;#Biography&quot; class=&quot;headerlink&quot; title=&quot;Biography&quot;&gt;&lt;/a&gt;Biography&lt;/h3&gt;&lt;p&gt;I graduated from &lt;strong&gt;&lt;em&gt;Harbin Engine</summary>
       
     
     
