@@ -18,8 +18,8 @@
   
   <entry>
     <title>Biography</title>
-    <link href="http://example.com/2021/02/14/1Biography/"/>
-    <id>http://example.com/2021/02/14/1Biography/</id>
+    <link href="http://example.com/2021/02/14/Biography/"/>
+    <id>http://example.com/2021/02/14/Biography/</id>
     <published>2021-02-14T06:46:52.000Z</published>
     <updated>2021-02-14T16:24:25.542Z</updated>
     
@@ -58,17 +58,17 @@
   
   <entry>
     <title>About</title>
-    <link href="http://example.com/2021/02/13/2About/"/>
-    <id>http://example.com/2021/02/13/2About/</id>
+    <link href="http://example.com/2021/02/13/About/"/>
+    <id>http://example.com/2021/02/13/About/</id>
     <published>2021-02-13T15:38:46.000Z</published>
-    <updated>2021-02-14T16:27:18.831Z</updated>
+    <updated>2021-02-14T16:36:27.563Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="About"><a href="#About" class="headerlink" title="About"></a>About</h3><h4 id="Honors-and-Awards"><a href="#Honors-and-Awards" class="headerlink" title="Honors and Awards"></a>Honors and Awards</h4><ul><li><strong>First prize of Mathematical modeling of the three northeastern provinces League</strong>, Harbin Engineering University, 2018</li><li><strong>Second prize of Contemporary Undergraduate Mathematical Contest in Modeling</strong>, CSIAM, Harbin Engineering University, 2018</li><li><strong>Meritorious Winner of Mathematical Contest In Modeling</strong>, COMAP, Harbin Engineering University, 2018</li><li><strong>School scholarship</strong>, Harbin Engineering University, 2016-2017</li></ul>]]></content>
+    <content type="html"><![CDATA[<h3 id="About"><a href="#About" class="headerlink" title="About"></a>About</h3><h4 id="Work-and-Education"><a href="#Work-and-Education" class="headerlink" title="Work and Education"></a>Work and Education</h4><ul><li>Dongfeng Nissan Technology Center, Algorithm Engineer, 2020-Present</li><li>Dongfeng Nissan, Summer intern, 2019</li><li>Midea Group, Embedded software development intern, 2019</li><li>Harbin Engineering University, Automation Major, 2016-2020<h4 id="Honors-and-Awards"><a href="#Honors-and-Awards" class="headerlink" title="Honors and Awards"></a>Honors and Awards</h4></li><li><strong>First prize of Mathematical modeling of the three northeastern provinces League</strong>, Harbin Engineering University, 2018</li><li><strong>Second prize of Contemporary Undergraduate Mathematical Contest in Modeling</strong>, CSIAM, Harbin Engineering University, 2018</li><li><strong>Meritorious Winner of Mathematical Contest In Modeling</strong>, COMAP, Harbin Engineering University, 2018</li><li><strong>School scholarship</strong>, Harbin Engineering University, 2016-2017</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;About&quot;&gt;&lt;a href=&quot;#About&quot; class=&quot;headerlink&quot; title=&quot;About&quot;&gt;&lt;/a&gt;About&lt;/h3&gt;&lt;h4 id=&quot;Honors-and-Awards&quot;&gt;&lt;a href=&quot;#Honors-and-Awards&quot; class</summary>
+    <summary type="html">&lt;h3 id=&quot;About&quot;&gt;&lt;a href=&quot;#About&quot; class=&quot;headerlink&quot; title=&quot;About&quot;&gt;&lt;/a&gt;About&lt;/h3&gt;&lt;h4 id=&quot;Work-and-Education&quot;&gt;&lt;a href=&quot;#Work-and-Education&quot; cla</summary>
       
     
     
