@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-14T07:48:32.178Z</updated>
+  <updated>2021-02-14T08:05:24.204Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2021/02/14/Biography/"/>
     <id>http://example.com/2021/02/14/Biography/</id>
     <published>2021-02-14T06:46:52.000Z</published>
-    <updated>2021-02-14T07:48:32.178Z</updated>
+    <updated>2021-02-14T08:05:24.204Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Biography"><a href="#Biography" class="headerlink" title="Biography"></a>Biography</h3><p>I graduated from <strong><em>Harbin Engineering University</em></strong>, majoring in Automation. My graduation thesis is <strong><em>Research on visual SLAM Based on deep learning</em></strong>.  I have embedded software development internship experience. At present, I am an <strong><em>Algorithm Engineer</em></strong> in <strong><em>Dongfeng Nissan Technology Center</em></strong>. I’m interested in <strong><em>Machine Learning</em></strong> and <strong><em>Data Analysis</em></strong>.</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Biography"><a href="#Biography" class="headerlink" title="Biography"></a>Biography</h3><p>I graduated from <strong><em>Harbin Engineering University</em></strong> in 2020, majoring in Automation. My graduation thesis is <strong><em>Research on visual SLAM Based on deep learning</em></strong>.  I have embedded software development internship experience. At present, I am an <strong><em>Algorithm Engineer</em></strong> in <strong><em>Dongfeng Nissan Technology Center</em></strong>. I’m interested in <strong><em>Machine Learning</em></strong> and <strong><em>Data Analysis</em></strong>.</p>]]></content>
     
     
       
