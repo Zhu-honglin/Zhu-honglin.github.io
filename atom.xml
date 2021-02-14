@@ -18,8 +18,8 @@
   
   <entry>
     <title>About</title>
-    <link href="http://example.com/2021/02/14/About/"/>
-    <id>http://example.com/2021/02/14/About/</id>
+    <link href="http://example.com/2021/02/14/2About/"/>
+    <id>http://example.com/2021/02/14/2About/</id>
     <published>2021-02-14T15:38:46.000Z</published>
     <updated>2021-02-14T15:59:49.738Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Biography</title>
-    <link href="http://example.com/2021/02/14/Biography/"/>
-    <id>http://example.com/2021/02/14/Biography/</id>
+    <link href="http://example.com/2021/02/14/1Biography/"/>
+    <id>http://example.com/2021/02/14/1Biography/</id>
     <published>2021-02-14T06:46:52.000Z</published>
     <updated>2021-02-14T15:55:06.750Z</updated>
     
